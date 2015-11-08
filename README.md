@@ -10,11 +10,15 @@ As stated above, the main purpose is to provide simple examples for Git Training
 
 ## Deployment
 
-Thsi is a simple web project.
+This is a simple web project.
 
 ## How To Contribute
 
 Pleae fork this repository and issue pull request for review.
+
+## Changes Count
+
+count = 1
 
 ## Copyright
 
