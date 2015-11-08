@@ -3,13 +3,14 @@
 
 # TEAM
 
-    Rahul Krishna rahulkrish85@gmail.com @raahulkrsna
+    Rahul Krishna Vasantham rahulkrish85@gmail.com @raahulkrsna
 
 # THANKS
 
-    Thanks to JT
+    Thanks to JT for the tutorial on Git
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Jsp, Srping
