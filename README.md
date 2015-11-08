@@ -18,4 +18,4 @@ Pleae fork this repository and issue pull request for review.
 
 ## Copyright
 
-2015 Rahul Krisha.
+2015 Rahul Krishna Vasantham.
