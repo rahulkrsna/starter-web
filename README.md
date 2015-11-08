@@ -18,7 +18,8 @@ Pleae fork this repository and issue pull request for review.
 
 ## Changes Count
 
-count = 1
+changed from = branch, myfeature
+count = 2
 
 ## Copyright
 
