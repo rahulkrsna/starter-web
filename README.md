@@ -23,4 +23,4 @@ count = 2
 
 ## Copyright
 
-2015 Rahul Krishna Vasantham.
+2015 Rahul Krishna Vasantham. All rights reserved.
