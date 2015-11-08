@@ -13,3 +13,7 @@ As stated above, the main purpose is to provide simple examples for Git Training
 Thsi is a simple web project.
 
 ## How To Contribute
+
+## Copyright
+
+2015 Rahul Krisha.
