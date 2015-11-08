@@ -19,7 +19,7 @@ Pleae fork this repository and issue pull request for review.
 ## Changes Count
 
 changed from = branch, myfeature
-count = 2
+count = 3
 
 ## Copyright
 
